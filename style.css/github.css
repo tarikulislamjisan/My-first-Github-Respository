@@ -1,0 +1,31 @@
+*{
+    background-color: darkcyan;
+}
+.one{
+    background-color: rgb(96, 95, 160);
+    border: 5px solid black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 25px;
+    margin: 15px;
+    padding: 10px;
+}
+.two{
+    background-color: rgb(0, 128, 77);
+    border: 5px solid black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+    padding: 10px;
+    border-radius:25px; 
+    
+}
+.three{
+    background-color: chocolate;
+    border: 5px solid black;
+    padding: 5px;
+    margin: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   border-radius: 25px; 
+}
